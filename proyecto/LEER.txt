@@ -1,0 +1,4 @@
+*** INSTALADOR DE MARKDOWN
+http://markdownpad.com/download.html
+
+*** Copiar la carpeta proyecto en la raíz del disco local C para ejecutar markdown, caso contrario puede abrir el manual-usuario.html
